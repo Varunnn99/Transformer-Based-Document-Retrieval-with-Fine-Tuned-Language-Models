@@ -1,0 +1,200 @@
+1. What is the capital city of France?
+2. Who wrote the novel "Pride and Prejudice"?
+3. What is the chemical symbol for gold?
+4. In which year did the Titanic sink?
+5. What is the largest planet in our solar system?
+6. Who painted the Mona Lisa?
+7. What is the longest river in the world?
+8. What is the primary source of energy for Earth's climate system?
+9. Who discovered penicillin?
+10. What is the currency of Japan?
+11. In which country is the Great Barrier Reef located?
+12. What is the smallest country in the world by land area?
+13. Who was the first person to walk on the moon?
+14. What is the main ingredient in guacamole?
+15. What is the largest mammal on Earth?
+16. In which year did World War II end?
+17. What is the capital city of Brazil?
+18. Who wrote the play "Romeo and Juliet"?
+19. What is the chemical formula for water?
+20. What is the tallest mountain in the world?
+21. What is the primary language spoken in Argentina?
+22. Who invented the telephone?
+23. What is the largest desert in the world?
+24. In which continent is Egypt located?
+25. What is the main source of energy for Earth's water cycle?
+26. Who was the first president of the United States?
+27. What is the currency of the United Kingdom?
+28. What is the largest ocean on Earth?
+29. Who wrote "To Kill a Mockingbird"?
+30. What is the chemical symbol for oxygen?
+31. In which year did the Berlin Wall fall?
+32. What is the capital city of China?
+33. Who discovered gravity?
+34. What is the smallest unit of life?
+35. What is the main ingredient in sushi?
+36. What is the longest bone in the human body?
+37. In which country is the city of Machu Picchu located?
+38. What is the primary source of energy for Earth's ecosystems?
+39. Who painted "Starry Night"?
+40. What is the currency of India?
+41. What is the largest country by land area?
+42. In which year did Christopher Columbus reach the Americas?
+43. What is the capital city of Canada?
+44. Who wrote "1984"?
+45. What is the chemical symbol for iron?
+46. What is the deepest point in the ocean?
+47. What is the primary language spoken in Brazil?
+48. Who invented the light bulb?
+49. What is the largest bird in the world?
+50. In which continent is Australia located?
+51. What is the capital city of Russia?
+52. Who discovered electricity?
+53. What is the main ingredient in hummus?
+54. What is the tallest building in the world?
+55. What is the currency of South Africa?
+56. In which year did the American Civil War end?
+57. What is the largest fish in the ocean?
+58. Who wrote "The Great Gatsby"?
+59. What is the chemical formula for carbon dioxide?
+60. What is the longest river in South America?
+61. What is the primary language spoken in Mexico?
+62. Who invented the steam engine?
+63. What is the largest volcano in the world?
+64. In which country is the city of Kyoto located?
+65. What is the main source of energy for Earth's magnetic field?
+66. Who was the first woman to win a Nobel Prize?
+67. What is the currency of Germany?
+68. What is the smallest planet in our solar system?
+69. Who painted "The Last Supper"?
+70. What is the capital city of India?
+71. In which year did the French Revolution begin?
+72. What is the largest lake in the world?
+73. Who wrote "Moby-Dick"?
+74. What is the chemical symbol for sodium?
+75. What is the tallest tree species in the world?
+76. What is the primary language spoken in China?
+77. Who invented the airplane?
+78. What is the largest island in the world?
+79. In which continent is Nigeria located?
+80. What is the capital city of Australia?
+81. Who discovered the theory of relativity?
+82. What is the main ingredient in paella?
+83. What is the longest river in Europe?
+84. What is the currency of Mexico?
+85. In which year did the Industrial Revolution begin?
+86. What is the largest reptile in the world?
+87. Who wrote "The Catcher in the Rye"?
+88. What is the chemical formula for methane?
+89. What is the deepest lake in the world?
+90. What is the primary language spoken in Japan?
+91. Who invented the computer?
+92. What is the largest coral reef system in the world?
+93. In which country is the city of Petra located?
+94. What is the capital city of South Africa?
+95. Who discovered DNA's double helix structure?
+96. What is the main ingredient in falafel?
+97. What is the tallest waterfall in the world?
+98. What is the currency of Canada?
+99. In which year did the first man land on the moon?
+100. What is the largest animal ever to live on Earth?
+101. Who wrote "The Odyssey"?
+102. What is the chemical symbol for calcium?
+103. What is the longest mountain range in the world?
+104. What is the primary language spoken in Russia?
+105. Who invented the radio?
+106. What is the largest glacier in the world?
+107. In which continent is Chile located?
+108. What is the capital city of Egypt?
+109. Who discovered the law of motion?
+110. What is the main ingredient in kimchi?
+111. What is the tallest animal in the world?
+112. What is the currency of Brazil?
+113. In which year did the Renaissance begin?
+114. What is the largest forest in the world?
+115. Who wrote "The Divine Comedy"?
+116. What is the chemical formula for glucose?
+117. What is the deepest trench in the ocean?
+118. What is the primary language spoken in India?
+119. Who invented the television?
+120. What is the largest peninsula in the world?
+121. In which country is the city of Angkor Wat located?
+122. What is the capital city of Japan?
+123. Who discovered the theory of evolution?
+124. What is the main ingredient in tzatziki?
+125. What is the longest river in Asia?
+126. What is the currency of Russia?
+127. In which year did the American Revolution begin?
+128. What is the largest mammal in the ocean?
+129. Who wrote "The Hobbit"?
+130. What is the chemical symbol for potassium?
+131. What is the tallest volcano in the world?
+132. What is the primary language spoken in Spain?
+133. Who invented the printing press?
+134. What is the largest lake in Africa?
+135. In which continent is Greenland located?
+136. What is the capital city of Mexico?
+137. Who discovered the periodic table?
+138. What is the main ingredient in pesto?
+139. What is the longest river in North America?
+140. What is the currency of China?
+141. In which year did World War I begin?
+142. What is the largest bird of prey in the world?
+143. Who wrote "The Lord of the Rings"?
+144. What is the chemical formula for ammonia?
+145. What is the deepest cave in the world?
+146. What is the primary language spoken in France?
+147. Who invented the internet?
+148. What is the largest desert in Africa?
+149. In which country is the city of Timbuktu located?
+150. What is the capital city of Germany?
+151. Who discovered antibiotics?
+152. What is the main ingredient in risotto?
+153. What is the tallest mountain in Africa?
+154. What is the currency of Australia?
+155. In which year did the Cold War begin?
+156. What is the largest amphibian in the world?
+157. Who wrote "Animal Farm"?
+158. What is the chemical symbol for magnesium?
+159. What is the longest river in Australia?
+160. What is the primary language spoken in Canada?
+161. Who invented the microscope?
+162. What is the largest island in the Mediterranean?
+163. In which continent is Madagascar located?
+164. What is the capital city of Italy?
+165. Who discovered the law of thermodynamics?
+166. What is the main ingredient in gazpacho?
+167. What is the tallest mountain in South America?
+168. What is the currency of France?
+169. In which year did the Spanish Civil War begin?
+170. What is the largest snake in the world?
+171. Who wrote "The Grapes of Wrath"?
+172. What is the chemical formula for ethanol?
+173. What is the deepest lake in North America?
+174. What is the primary language spoken in Germany?
+175. Who invented the telegraph?
+176. What is the largest volcano in Europe?
+177. In which country is the city of Pompeii located?
+178. What is the capital city of Spain?
+179. Who discovered the theory of quantum mechanics?
+180. What is the main ingredient in ratatouille?
+181. What is the longest river in Africa?
+182. What is the currency of Italy?
+183. In which year did the Vietnam War begin?
+184. What is the largest fish in the world?
+185. Who wrote "The Old Man and the Sea"?
+186. What is the chemical symbol for zinc?
+187. What is the tallest mountain in North America?
+188. What is the primary language spoken in Italy?
+189. Who invented the camera?
+190. What is the largest lake in South America?
+191. In which continent is Iceland located?
+192. What is the capital city of Argentina?
+193. Who discovered the theory of plate tectonics?
+194. What is the main ingredient in tabbouleh?
+195. What is the longest river in South America?
+196. What is the currency of Spain?
+197. In which year did the Korean War begin?
+198. What is the largest mammal on land?
+199. Who wrote "The Sun Also Rises"?
+200. What is the chemical formula for salt?
